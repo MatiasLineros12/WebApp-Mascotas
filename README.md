@@ -7,3 +7,5 @@ Tecnologías de software:
   - MySQL
   - HTML
   - CSS
+
+date dev: 2019
